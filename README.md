@@ -2,7 +2,7 @@
 ![Github license](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)
 
 ## Description 
-A portfolio about me and the work I have accomplished thus far. Contains a Nav bar with tabs that will scroll to the corresponding section on the page. There a three sections an about me, my projects, and a section to contact me. Only used HTML and CSS to design this webpage. 
+A portfolio about me and the work I have accomplished thus far. Contains a Nav bar with tabs that will scroll to the corresponding section on the page. There a three sections an about me, my projects, and a section to contact me. Only used HTML and CSS to design this webpage. http://127.0.0.1:5500/index.html
 
   ![port1](https://user-images.githubusercontent.com/117341197/218275367-2e4a7df9-45b9-4f61-a26e-e8cb0bcf5ce4.PNG)
 ![port2](https://user-images.githubusercontent.com/117341197/218275372-77c85fe0-84de-416a-b1d0-7c729adb6282.PNG)
@@ -18,6 +18,7 @@ A portfolio about me and the work I have accomplished thus far. Contains a Nav b
   
 ## Installation
 No steps to install, simply visit the live link to view.
+http://127.0.0.1:5500/index.html
   
   
 ## Usage
