@@ -34,4 +34,8 @@ nav{
     background-color:rgb(209, 205, 198);
     margin: 40px;
     }
-    
+.contact-Me {
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+}
